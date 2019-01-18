@@ -58,7 +58,7 @@
 		"uuid": "^3.3.2"
 	},
 	"devDependencies": {
-		"@types/async": "^2.0.50",
+		"@types/async": "2.0.50",
 		"@types/d3-color": "^1.2.1",
 		"@types/faker": "^4.1.4",
 		"@types/googlemaps": "^3.30.16",
