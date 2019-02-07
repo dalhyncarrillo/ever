@@ -55,7 +55,7 @@
 		"@angular/http": "~7.2.3",
 		"@angular/platform-browser": "~7.2.3",
 		"@angular/platform-browser-dynamic": "~7.2.3",
-		"@angular/pwa": "^0.13.0",
+		"@angular/pwa": "^0.13.1",
 		"@angular/router": "~7.2.3",
 		"@angular/service-worker": "^7.2.3",
 		"@ionic-native/barcode-scanner": "^5.0.0",
